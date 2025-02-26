@@ -31,8 +31,8 @@ purposes. See the "Deployment" section for notes on how to deploy the project on
 GitHub is used for versioning
 
 ## Authors
-* Artyom Kudrinsky - Implementation of the Prim algorithm (theory page, data entry page, algorithm handler), creation of a template for matrix input, "About authors" page
+* Artem Kudrinskiy - Implementation of the Prim algorithm (theory page, data entry page, algorithm handler), creation of a template for matrix input, "About authors" page
 * Ivan Komkov - Implementation of the Kraskala algorithm (theory page, data entry page, algorithm handler), navigation panel (site header), website basement
-* About-Oscar's Fist - Implementation of Dijkstra's algorithm (theory page, data entry page, algorithm handler), page with output of the algorithms' results
+* Okolo-Kulak Oscar - Implementation of Dijkstra's algorithm (theory page, data entry page, algorithm handler), page with output of the algorithms' results
 * Oleg Afanasyev - Implementation of Floyd's algorithm (theory page, data entry page, algorithm handler), home page
 
