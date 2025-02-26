@@ -1,38 +1,38 @@
 # GraphX
-Веб-приложение для обучения пользователей алгоритмам поиска кратчайших путей в графах, а также для автоматизации нахождения кратчайших путей.
+A web application for teaching users algorithms for finding shortest paths in graphs, as well as for automating the search for shortest paths.
 
-## Начало работы с проектом
-Эти инструкции помогут вам запустить копию проекта на вашем локальном компьютере для целей разработки и тестирования. 
-См. раздел «Развертывание» для получения примечаний о том, как развернуть проект в работающей системе.
+## Getting started with a project
+These instructions will help you run a copy of the project on your local computer for development and testing
+purposes. See the "Deployment" section for notes on how to deploy the project on a running system.
 
-### Предварительные условия
-* Рекомендуемая среда разработки - Visual Studio не ниже 2019
+### Prerequisites
+* Recommended development environment - Visual Studio at least 2019
 * Python 3.9
-* Владение языком Python на продвинутом уровне, знание фреймворка Bottle, технологий html5 и Bootstrap, опыт работы в Visual Studio
-* Операционная система семейства Windows
+* Advanced knowledge of Python, knowledge of the Bottle framework, html5 and Bootstrap technologies, experience working in Visual Studio
+* Windows family operating system
 
-### Установка
-* Клонировать репозиторий проекта с помощью Git
-* Запустить проект в Visual Studio
-* Установить все зависимости проекта, указанные в файле requirements.txt
-* Проверить настройки проекта и пути к файлам
+### Installation
+* Clone the project repository using Git
+* Run the project in Visual Studio
+* Install all project dependencies specified in the file requirements.txt
+* Check the project settings and file paths
 
-## Развертывание проекта
-* Настроить веб-сервер
-* Настроить конфигурацию проекта для работы с выбранным веб-сервером
-* Запустить проект на веб-сервере и проверить его работоспособность
+## Project deployment
+* Set up a web server
+* Configure the project configuration to work with the selected web server
+* Run the project on a web server and check its functionality
 
-## Сборка с помощью Visual Studio
-* Проверить проект с помощью инструментов сборки проекта в Visual Studio
-* Собрать проект с помощью инструментов сборки Visual Studio
-* Проверить собранный проект на работоспособность
+## Build using Visual Studio
+* Check the project using the project build tools in Visual Studio
+* Build a project using Visual Studio build tools
+* Check the assembled project for operability
 
-## Версионирование
-Для версионирования используется GitHub
+## Versioning
+GitHub is used for versioning
 
-## Авторы
-* Артем Кудринский - Реализация алгоритма Прима (страница с теорией, страница ввода данных, обработчик с алгоритмом), создание шаблона для ввода матрицы, страница "Об авторах"
-* Комков Иван - Реализация алгоритма Краскала (страница с теорией, страница ввода данных, обработчик с алгоритмом), навигационная панель (шапка сайта), подвал сайта
-* Около-Кулак Оскар - Реализация алгоритма Дейкстры (страница с теорией, страница ввода данных, обработчик с алгоритмом), страница с выводом результата работы алгоритмов
-* Афанасьев Олег - Реализация алгоритма Флойда (страница с теорией, страница ввода данных, обработчик с алгоритмом), главная страница
+## Authors
+* Artyom Kudrinsky - Implementation of the Prim algorithm (theory page, data entry page, algorithm handler), creation of a template for matrix input, "About authors" page
+* Ivan Komkov - Implementation of the Kraskala algorithm (theory page, data entry page, algorithm handler), navigation panel (site header), website basement
+* About-Oscar's Fist - Implementation of Dijkstra's algorithm (theory page, data entry page, algorithm handler), page with output of the algorithms' results
+* Oleg Afanasyev - Implementation of Floyd's algorithm (theory page, data entry page, algorithm handler), home page
 
